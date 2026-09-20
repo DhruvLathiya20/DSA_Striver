@@ -10,11 +10,7 @@ public:
             int currentWater = w * h;
             maxWater = max(maxWater, currentWater);
 
-            if (height[lp] < height[rp]) {
-                lp++;
-            } else {
-                rp--;
-            }
+            height[lp] < height[rp] ? lp++ : rp--;
         }
         return maxWater;
     }
