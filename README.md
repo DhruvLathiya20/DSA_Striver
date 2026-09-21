@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
