@@ -2,9 +2,10 @@ class Solution {
 public:
     long long calculateTotalHours(vector<int>& piles, int speed) {
         long long totalH = 0;
-
-        for (int pile : piles) {
-            totalH += (pile + speed - 1) / speed;
+        int n=piles.size();
+        for (int i=0;i<n;i++) {
+           // totalH += (pile + speed - 1) / speed;
+            totalH += ceil((double)piles[i] / (double)speed);
         }
 
         return totalH;
