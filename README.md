@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
