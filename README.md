@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0020-valid-parentheses) |
+| [0796-rotate-string](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0796-rotate-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0020-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
