@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0020-valid-parentheses) |
 | [0796-rotate-string](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0796-rotate-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3498-reverse-degree-of-a-string](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3498-reverse-degree-of-a-string) |
@@ -99,11 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
 | ------- |
