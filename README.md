@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0069-sqrtx) |
 | [0410-split-array-largest-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0231-power-of-two) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0231-power-of-two) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
