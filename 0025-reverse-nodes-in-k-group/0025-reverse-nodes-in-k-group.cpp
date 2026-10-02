@@ -40,7 +40,6 @@ public:
 
         while (temp != nullptr) {
             ListNode* kthNode = findKthNode(temp, k);
-
             if (kthNode == nullptr) {
                 if (preLast != nullptr) {
                     preLast->next = temp;
@@ -58,7 +57,6 @@ public:
             } else {
                 preLast->next = kthNode;
             }
-
             preLast = temp;
             temp = nextNode;
         }
