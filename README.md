@@ -143,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
