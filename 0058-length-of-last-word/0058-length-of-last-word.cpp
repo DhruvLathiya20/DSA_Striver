@@ -4,8 +4,6 @@ public:
         int i = s.size() - 1;
         int count = 0;
 
-        if(i==0) return 1;
-
         while (i >= 0 && s[i] == ' ') {
             i--;
         }
