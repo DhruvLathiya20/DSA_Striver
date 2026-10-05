@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -112,12 +113,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
