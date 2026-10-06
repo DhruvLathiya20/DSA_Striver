@@ -1,47 +1,33 @@
 class Solution {
 public:
-
-    int countParts(vector<int>& nums, int limit) {
-        int parts = 1;
-        long long sum = 0;
-
-        for (int x : nums) {
-
-            if (sum + x > limit) {
-                parts++;
-                sum = x;
-            }
-            else {
-                sum += x;
-            }
+    bool countParts(vector<int>& nums, int limit,int k) {
+       int student = 1;
+       int pages = 0;
+       for(auto i : nums){
+        if(i > limit) return false;
+        if(pages+i > limit){
+            student++;
+            pages = i;
+        }else{
+            pages+=i;
         }
-
-        return parts;
+       }
+       if(student > k) return false;
+       return true;
     }
 
     int splitArray(vector<int>& nums, int k) {
+        int low = *min_element(nums.begin(),nums.end());
+        int high = accumulate(nums.begin(),nums.end(),0);
 
-        int low = *max_element(nums.begin(), nums.end());
-        int high = accumulate(nums.begin(), nums.end(), 0);
-
-        while (low <= high) {
-
-            int mid = low + (high - low) / 2;
-
-            int parts = countParts(nums, mid);
-
-            if (parts <= k) {
-                // mid works
-                // try smaller largest sum
-                high = mid - 1;
-            }
-            else {
-                // too many parts
-                // need bigger limit
-                low = mid + 1;
+        while(low<high){
+            int mid = (low+high)/2;
+            if(countParts(nums,mid,k)){
+                high = mid;
+            }else{
+                low = mid+1;
             }
         }
-
         return low;
     }
 };
