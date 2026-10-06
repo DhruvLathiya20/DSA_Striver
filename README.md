@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0410-split-array-largest-sum) |
+| [0877-stone-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0231-power-of-two) |
 | [0633-sum-of-square-numbers](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0877-stone-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
@@ -169,4 +172,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0206-reverse-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/2074-reverse-nodes-in-even-length-groups) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
