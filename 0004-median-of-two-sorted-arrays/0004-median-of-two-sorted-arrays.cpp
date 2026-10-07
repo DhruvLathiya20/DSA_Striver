@@ -28,6 +28,8 @@ public:
         if (n % 2 == 1) {
             return ans[n / 2];
         }
-        return (ans[n / 2 - 1] + ans[n / 2]) / 2.0;
+        int mid1 = ans[n / 2 - 1];
+        int mid2 = ans[n / 2];
+        return (mid1 + mid2) / 2.0;
     }
 };
