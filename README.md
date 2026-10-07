@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0031-next-permutation) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0410-split-array-largest-sum) |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0877-stone-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
