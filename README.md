@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0141-linked-list-cycle) |
 | [0633-sum-of-square-numbers](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0141-linked-list-cycle) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0876-middle-of-the-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/2074-reverse-nodes-in-even-length-groups) |
@@ -195,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0004-median-of-two-sorted-arrays) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
