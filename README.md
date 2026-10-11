@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1021-remove-outermost-parentheses) |
+| [1108-defanging-an-ip-address](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1108-defanging-an-ip-address) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
