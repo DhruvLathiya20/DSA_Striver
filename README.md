@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0069-sqrtx) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0206-reverse-linked-list) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0092-reverse-linked-list-ii) |
