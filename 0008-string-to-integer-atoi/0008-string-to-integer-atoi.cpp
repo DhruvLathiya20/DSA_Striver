@@ -17,7 +17,7 @@ public:
                 if(ans>INT_MAX && sign == -1) return INT_MIN;
                 else if(ans>INT_MAX && sign==1) return INT_MAX;
                 i++;
-            }else{
+            }else {
                 return ans*sign;
             }
         }
