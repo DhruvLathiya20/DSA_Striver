@@ -16,9 +16,9 @@ public:
     
     int getMinCount(vector<int>& freq){
         int minCount = INT_MAX;
-        for (int count : freq) {
-            if (count != 0) {
-                minCount = min(minCount, count);
+        for (int i : freq) {
+            if (i != 0) {
+                minCount = min(minCount, i);
             }
         }
         return minCount;
@@ -26,9 +26,9 @@ public:
 
     int getMaxCount(vector<int>& freq){
         int maxCount = INT_MIN;
-        for (int count : freq) {
-            if (count != 0) {
-                maxCount = max(maxCount, count);
+        for (int i : freq) {
+            if (i != 0) {
+                maxCount = max(maxCount, i);
             }
         }
         return maxCount;
