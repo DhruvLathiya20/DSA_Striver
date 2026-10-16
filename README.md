@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0058-length-of-last-word) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0141-linked-list-cycle) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0231-power-of-two) |
