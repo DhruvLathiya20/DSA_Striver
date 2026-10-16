@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0020-valid-parentheses) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0005-longest-palindromic-substring) |
 | [0410-split-array-largest-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0877-stone-game) |
 ## Math
@@ -258,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1901-find-a-peak-element-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
