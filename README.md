@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0877-stone-game) |
+| [1922-count-good-numbers](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1922-count-good-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Stack
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0231-power-of-two) |
+| [1922-count-good-numbers](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1922-count-good-numbers) |
 ## Newton's Method
 |  |
 | ------- |
