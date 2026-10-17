@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0125-valid-palindrome) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0877-stone-game) |
 ## Math
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1021-remove-outermost-parentheses) |
@@ -274,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
