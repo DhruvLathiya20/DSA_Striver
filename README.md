@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0031-next-permutation) |
+| [0055-jump-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0075-sort-colors) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0877-stone-game) |
 ## Math
