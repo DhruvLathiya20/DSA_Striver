@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3498-reverse-degree-of-a-string](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Simulation
 |  |
 | ------- |
