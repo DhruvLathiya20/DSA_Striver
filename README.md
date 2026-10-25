@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0877-stone-game) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1922-count-good-numbers](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
