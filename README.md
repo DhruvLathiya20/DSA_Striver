@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0128-longest-consecutive-sequence) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1901-find-a-peak-element-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Manacher
 |  |
 | ------- |
@@ -321,4 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0014-longest-common-prefix) |
+## Depth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
