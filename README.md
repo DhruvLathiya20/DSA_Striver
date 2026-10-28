@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1922-count-good-numbers](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/2409-count-days-spent-together) |
