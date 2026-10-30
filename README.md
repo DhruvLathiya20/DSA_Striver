@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0877-stone-game) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0633-sum-of-square-numbers) |
@@ -343,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
