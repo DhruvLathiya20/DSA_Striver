@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0148-sort-list) |
 | [0633-sum-of-square-numbers](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0148-sort-list) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0876-middle-of-the-linked-list) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0493-reverse-pairs) |
 ## Floyd's Cycle Finding Algorithm
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
