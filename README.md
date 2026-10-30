@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0240-search-a-2d-matrix-ii) |
+| [0322-coin-change](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0495-teemo-attacking) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0877-stone-game) |
 ## Math
@@ -345,9 +347,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0322-coin-change) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
