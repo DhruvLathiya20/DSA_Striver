@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0322-coin-change) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0217-contains-duplicate) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0219-contains-duplicate-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1781-sum-of-beauty-of-all-substrings) |
