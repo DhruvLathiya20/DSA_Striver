@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0410-split-array-largest-sum) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
