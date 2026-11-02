@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0547-number-of-provinces) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
@@ -359,11 +360,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0094-binary-tree-inorder-traversal) |
+| [0547-number-of-provinces](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0547-number-of-provinces) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0547-number-of-provinces) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Memoization
 |  |
@@ -385,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0094-binary-tree-inorder-traversal) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
