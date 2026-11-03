@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0495-teemo-attacking) |
+| [0860-lemonade-change](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sorting
