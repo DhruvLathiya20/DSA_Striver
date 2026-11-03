@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0455-assign-cookies](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0495-teemo-attacking) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0148-sort-list) |
+| [0455-assign-cookies](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sorting
@@ -116,12 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
