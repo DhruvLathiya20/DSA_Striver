@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0078-subsets) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0152-maximum-product-subarray) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0493-reverse-pairs) |
@@ -395,12 +397,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0547-number-of-provinces) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
