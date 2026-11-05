@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0055-jump-game) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0217-contains-duplicate) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
