@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0074-search-a-2d-matrix) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0141-linked-list-cycle) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0739-daily-temperatures) |
