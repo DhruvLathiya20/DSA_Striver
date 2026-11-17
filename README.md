@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0735-asteroid-collision) |
+| [0946-validate-stack-sequences](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0946-validate-stack-sequences) |
 | [1920-build-array-from-permutation](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1920-build-array-from-permutation) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3498-reverse-degree-of-a-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0877-stone-game) |
+| [0946-validate-stack-sequences](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0946-validate-stack-sequences) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0946-validate-stack-sequences](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
