@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0877-stone-game) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1021-remove-outermost-parentheses) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0739-daily-temperatures) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
