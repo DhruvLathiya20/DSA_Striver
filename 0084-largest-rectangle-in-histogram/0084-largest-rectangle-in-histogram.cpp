@@ -1,28 +1,29 @@
-class Solution {
+#include<iostream>
+using namespace std;
+
+class Solution{
+private:
+    vector<int> s;
+    int maxArea = 0;
 public:
-    int largestRectangleArea(vector<int>& heights) {
-        stack<int> st;
-        int n=size(heights);
-        int ans=0;
-        for(int i=0; i<=n; i++)
-        {
-            int curr = (i == n) ? 0 : heights[i];
-            while(!st.empty() && heights[st.top()]>curr)
-            {
-                int height=heights[st.top()];
-                st.pop();
-                int width;
-
-                if(st.empty()) width = i;
-                else width = i - 1 - st.top(); 
-
-                int area = height * width;
-                ans = max(ans, area);
-
+    int largestRectangleArea(vector<int> &heights){
+        int n = heights.size();
+        for(int i = 0; i < n;i++){
+            while(!s.empty() && heights[i] < heights[s.back()]){
+                int h = heights[s.back()];
+                int e = s.back();
+                s.pop_back();
+                int w = s.empty() ? i : i - s.back() - 1;
+                maxArea = max(maxArea, h * w);
             }
-
-            st.push(i);
+            s.push_back(i);
         }
-        return ans;
+        while (!s.empty()) {
+            int h = heights[s.back()];
+            s.pop_back();
+            int w = s.empty() ? n : n - s.back() - 1;
+            maxArea = max(maxArea, h * w);
+        }
+        return maxArea;
     }
 };
