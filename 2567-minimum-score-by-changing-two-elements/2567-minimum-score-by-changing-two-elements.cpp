@@ -8,7 +8,7 @@ public:
         int case2=nums[n-2]-nums[1];
         int case3=nums[n-3]-nums[0];
 
-        return min(min(case1,case2),case3);
+        return min({case1,case2,case3});
 
 
 
