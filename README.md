@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0412-fizz-buzz) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -501,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Pigeonhole Principle
