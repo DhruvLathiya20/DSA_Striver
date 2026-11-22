@@ -18,8 +18,8 @@ public:
 
     bool check(TreeNode* left,TreeNode* right)
     {
-        if(left==NULL && right==NULL) return true;
-        if(left==NULL || right==NULL) return false;
+        if(left==nullptr && right==nullptr) return true;
+        if(left==nullptr || right==nullptr) return false;
         if(left->val != right->val) return false;
 
         return check(left->left,right->right) && check(left->right,right->left);
