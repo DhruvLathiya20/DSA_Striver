@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Quicksort
 |  |
 | ------- |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0547-number-of-provinces) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Memoization
 |  |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
