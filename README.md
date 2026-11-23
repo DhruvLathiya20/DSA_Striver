@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0547-number-of-provinces) |
+| [0669-trim-a-binary-search-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0669-trim-a-binary-search-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0669-trim-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0669-trim-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Graph Theory
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0669-trim-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Pigeonhole Principle
 |  |
