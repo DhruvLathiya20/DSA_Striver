@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
