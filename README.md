@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0155-min-stack) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0933-number-of-recent-calls) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0933-number-of-recent-calls) |
 ## DP on Trees
 |  |
 | ------- |
@@ -585,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
