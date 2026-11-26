@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/0946-validate-stack-sequences) |
 | [1920-build-array-from-permutation](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1920-build-array-from-permutation) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1922-count-good-numbers](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/DhruvLathiya20/DSA_Striver/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
